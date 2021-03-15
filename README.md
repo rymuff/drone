@@ -10,4 +10,4 @@
 * Geumhwan Cho, Sungkyunkwan University
 * Junsung Cho, Sungkyunkwan University
 * Sangwon Hyun, Myongji University
-* Hyoungshick Kim, Sungkyunkwan University, Data61@CSIRO
+* Hyoungshick Kim, Sungkyunkwan University
